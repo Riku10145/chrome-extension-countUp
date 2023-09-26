@@ -1,0 +1,9 @@
+{
+    "name": "Count Up",
+    "description": "文字数カウントのchrome拡張機能",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "count.html"
+    }
+}
